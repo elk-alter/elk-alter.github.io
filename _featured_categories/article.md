@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Elk-alter
-slug: elk-alter
+title: 文章
+slug: article
 menu: true
 order: 1
 description: >

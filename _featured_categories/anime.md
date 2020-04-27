@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Hyde
-slug: hyde
+title: 动漫
+slug: anime
 menu: true
 order: 2
 description: >

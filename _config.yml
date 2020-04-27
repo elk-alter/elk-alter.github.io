@@ -48,12 +48,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Elk-alter
-    url:               /elk-alter/
-  - title:             Hyde
-    url:               /hyde/
-  - title:             Documentation
-    url:               /docs/
+  - title:             文章
+    url:               /article/
+  - title:             动画
+    url:               /anime/
+  - title:             游戏
+    url:               /game/
   - title:             About
     url:               /about/
 
