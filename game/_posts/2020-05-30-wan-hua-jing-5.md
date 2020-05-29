@@ -55,16 +55,27 @@ noindex: true
 ![img](http://i2.acg.gy/200529008.jpg)
 
 品牌：ωstar
+
 定価：￥3,800 (税込￥4,180)
+
 发售日期：2020-05-29
+
 原画： 八宝備仁
+
 剧本： 吉祥寺ドロレス
+
 TAG： ADV、emote、后辈、酒店旅馆、 和服、Loli、冷傲、奇幻
+
 ジャンル：オカルティック官能アドベンチャー
+
 JANコード：4582309795130
+
 対応OS：Windows 7/8/8.1/10
+
 CPU：Intel Core2 Duo以上
+
 メモリー：1GB以上
+
 必要解像度：1280×720ドット フルカラー
 
 ---
@@ -78,4 +89,5 @@ CPU：Intel Core2 Duo以上
 本站不提供任何下载服务
 
 [本体磁力](magnet:?xt=urn:btih:dfe2b5f8cde5e9166000d430b32954967f46525e)
+
 [update 1.01 磁力](magnet:?xt=urn:btih:d834d922cd8ee9d16e4719ef5e266c31417a066f)
