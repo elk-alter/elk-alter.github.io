@@ -272,6 +272,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-replace-img
+  - jekyll-include-cache
 
 # Theme
 # ---------------------------------------------------------------------------------------
