@@ -1,6 +1,40 @@
 <!--
 Code for integrating CloudFlare's email protection with Hydejack's single page app loading.
 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+<script src="https://cdn.jsdelivr.net/gh/elk-alter/live2d-widget@latest/autoload.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+<div id="aplayer" style='position:fixed; z-index:999;'></div>
+<script>
+    const ap = new APlayer({
+        container: document.getElementById('aplayer'),
+        fixed: true,
+        lrcType: 3,
+        audio: [{
+            name: '光るなら',
+            artist: 'Goose house',
+            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
+            cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
+            lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.lrc',
+            theme: '#ebd0c2'
+        }, {
+            name: 'トリカゴ',
+            artist: 'XX:me',
+            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
+            cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg',
+            lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.lrc',
+            theme: '#46718b'
+        }, {
+            name: '前前前世',
+            artist: 'RADWIMPS',
+            url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
+            cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.jpg',
+            lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.lrc',
+            theme: '#505d6b'
+        }]
+    });
+</script>
 <script>
   document.getElementById('_pushState').addEventListener('hy-push-state-after', function (e) {
     function e(e){

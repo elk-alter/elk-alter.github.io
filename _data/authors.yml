@@ -9,8 +9,11 @@ elk:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     你是一树一树的花开
+
     是燕在梁间呢喃
+
     ——你是爱，是暖，是希望
+    
     你是人间的四月天
 
   # This photo will be used in the about section
