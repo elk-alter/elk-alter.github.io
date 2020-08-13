@@ -1,20 +1,23 @@
-# Hydejack Starter Kit
+# Elk-alter's little site
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+这里会记录一些建站的日常
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+## 待办事项
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+> 需要去做的一些事
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+* 更新一些文章
+* 评论区
+* 域名、服务器
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+## 更新日志
+
+> 就是log啦
+
+2020-08-13 添加Live2D、aplayer
+
+2020-08-11 升级主题版本到v9
+
+2020-05-12 更新了一些图片资源
+
+2020-04-27 找了个开源模板准备建站
