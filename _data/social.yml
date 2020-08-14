@@ -1,7 +1,7 @@
 # This file contains meta data for various social media sites
 email:
   name: Email
-  icon: icon-mail
+  icon: icon-gmail
   prepend: 'mailto:'
 amazon:
   name: Amazon
@@ -206,3 +206,7 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+bilibili:
+  name: Bilibili
+  icon: icon-bilibili
+  prepend: "https://space.bilibili.com/"
