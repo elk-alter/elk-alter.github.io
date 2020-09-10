@@ -45,7 +45,7 @@ description: >
 
 画出递归结构如下图：
 
-![image.png](https://pic.leetcode-cn.com/1599488203-TzmCXb-image.png)
+![image.png](/assets/img/doc_img/2020-09-09-leetcode-combinations-img.png)
 
 > 叶子结点的信息体现在从根结点到叶子结点的路径上，因此需要一个表示路径的变量 path，它是一个列表，特别地，path 是一个栈；
 >
