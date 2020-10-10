@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Leetcode每日算法--组合
+title: Leetcode每日算法--环形链表 II
 description: >
-  难度中等。给定两个整数 n 和 k，返回 1 ... n 中所有可能的 k 个数的组合。
+  难度中等。给定一个链表，返回链表开始入环的第一个节点。 如果链表无环，则返回 null。
 ---
 
 #### [[142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)](https://leetcode-cn.com/problems/combinations/)
