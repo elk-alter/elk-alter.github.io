@@ -6,7 +6,9 @@ description: >
 转载于http://www.cyc2018.xyz/
 ---
 
-## [#](http://www.cyc2018.xyz/算法/Leetcode 题解/Leetcode 题解 - 双指针.html#_1-有序数组的-two-sum)1. 有序数组的 Two Sum
+[TOC]
+
+### 1. 有序数组的 Two Sum
 
 \167. Two Sum II - Input array is sorted (Easy)
 
@@ -49,7 +51,7 @@ public int[] twoSum(int[] numbers, int target) {
 }
 ```
 
-## [#](http://www.cyc2018.xyz/算法/Leetcode 题解/Leetcode 题解 - 双指针.html#_2-两数平方和)2. 两数平方和
+### 2. 两数平方和
 
 \633. Sum of Square Numbers (Easy)
 
@@ -89,7 +91,7 @@ Explanation: 1 * 1 + 2 * 2 = 5
  }
 ```
 
-## [#](http://www.cyc2018.xyz/算法/Leetcode 题解/Leetcode 题解 - 双指针.html#_3-反转字符串中的元音字符)3. 反转字符串中的元音字符
+### 3. 反转字符串中的元音字符
 
 \345. Reverse Vowels of a String (Easy)
 
@@ -138,7 +140,7 @@ public String reverseVowels(String s) {
 }
 ```
 
-## [#](http://www.cyc2018.xyz/算法/Leetcode 题解/Leetcode 题解 - 双指针.html#_4-回文字符串)4. 回文字符串
+### 4. 回文字符串
 
 \680. Valid Palindrome II (Easy)
 
@@ -190,7 +192,7 @@ private boolean isPalindrome(String s, int i, int j) {
 }
 ```
 
-## [#](http://www.cyc2018.xyz/算法/Leetcode 题解/Leetcode 题解 - 双指针.html#_5-归并两个有序数组)5. 归并两个有序数组
+### 5. 归并两个有序数组
 
 \88. Merge Sorted Array (Easy)
 
@@ -226,7 +228,7 @@ public void merge(int[] nums1, int m, int[] nums2, int n) {
 }
 ```
 
-## [#](http://www.cyc2018.xyz/算法/Leetcode 题解/Leetcode 题解 - 双指针.html#_6-判断链表是否存在环)6. 判断链表是否存在环
+### 6. 判断链表是否存在环
 
 \141. Linked List Cycle (Easy)
 
@@ -251,7 +253,7 @@ public boolean hasCycle(ListNode head) {
 }
 ```
 
-## [#](http://www.cyc2018.xyz/算法/Leetcode 题解/Leetcode 题解 - 双指针.html#_7-最长子序列)7. 最长子序列
+### 7. 最长子序列
 
 \524. Longest Word in Dictionary through Deleting (Medium)
 
