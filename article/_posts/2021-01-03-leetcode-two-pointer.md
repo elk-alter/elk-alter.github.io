@@ -3,7 +3,6 @@ layout: post
 title: Leetcode算法汇总--双指针
 description: >
   双指针主要用于遍历数组，两个指针指向不同的元素，从而协同完成任务。
-转载于http://www.cyc2018.xyz/
 ---
 
 [TOC]
