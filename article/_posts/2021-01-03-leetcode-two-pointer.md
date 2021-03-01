@@ -5,8 +5,10 @@ description: >
   双指针主要用于遍历数组，两个指针指向不同的元素，从而协同完成任务。
 ---
 
-[TOC]
 
+
+* this list will be replaced by the toc
+{:toc .large-only}
 ### 1. 有序数组的 Two Sum
 
 \167. Two Sum II - Input array is sorted (Easy)
