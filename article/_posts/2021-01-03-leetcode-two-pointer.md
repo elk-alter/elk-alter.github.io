@@ -6,9 +6,6 @@ description: >
 ---
 
 
-
-* this list will be replaced by the toc
-{:toc .large-only}
 ### 1. 有序数组的 Two Sum
 
 \167. Two Sum II - Input array is sorted (Easy)
